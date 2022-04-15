@@ -3,13 +3,6 @@
  **
  **     DESCRIPTION        :    To track newly allocated memory records 
  **
- **     REVISION HISTORY   :
- **
- **     DATE                NAME              REFERENCE               REASON
- **     --------------------------------------------------------------------
- **    11 April 2022       Group-2      Sprint-2          Sprint-2 Submission
- **
- **     Copyright Ã‚Â© 2022 Capgemini Group  All Rights Reserved
  **
  ************************************************************************************/
 
