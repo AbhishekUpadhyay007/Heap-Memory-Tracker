@@ -3,13 +3,6 @@
  **
  **     DESCRIPTION        :    ADT structure for keeping record for memory allocations/deallocations 
  **
- **     REVISION HISTORY   :
- **
- **     DATE                NAME              REFERENCE               REASON
- **     --------------------------------------------------------------------
- **    11 April 2022       Group-2      Sprint-2          Sprint-2 Submission
- **
- **     Copyright Ã‚Â© 2022 Capgemini Group  All Rights Reserved
  **
  ************************************************************************************/
 #ifndef _LinkedList_2_
@@ -110,7 +103,7 @@ private:
  **
  **     PARAMETERS       :   void
  **
- **     RETURNS          :   EXIT_SUCESS/EXIT_FAILURE
+ **     RETURNS          :   size
  **********************************************************************************/
 template <class T>
 int LinkedList<T>::getSize()
